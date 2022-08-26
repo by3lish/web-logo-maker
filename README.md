@@ -1,1 +1,1 @@
-# web-logo-maker
+# Web logo maker
